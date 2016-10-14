@@ -1,0 +1,1 @@
+{"name":"associated on devise","repository":"https://github.com/initialversion/associated-on-devise-147645849","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
